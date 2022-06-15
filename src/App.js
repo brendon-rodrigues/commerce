@@ -16,6 +16,7 @@ export default function App (){
     }}/>
     
     <h1> Obrigado por comprar {name} </h1>
+    <h2> O nome correto é BISCOITO e não BOLACHA</h2>
     </form> 
   )
 }

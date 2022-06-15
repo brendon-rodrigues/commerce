@@ -16,6 +16,7 @@ export default function App (){
     }}/>
     
     <h1> Obrigado por comprar {name} </h1>
+    <p> Site by Brendon</p>
     </form> 
   )
 }
